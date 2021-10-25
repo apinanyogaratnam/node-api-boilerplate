@@ -1,0 +1,20 @@
+{
+  "name": "api-boilerplate",
+  "version": "1.0.0",
+  "description": "a template to start working with a node server side application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apinanyogaratnam/node-api-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apinanyogaratnam/node-api-boilerplate/issues"
+  },
+  "homepage": "https://github.com/apinanyogaratnam/node-api-boilerplate#readme"
+}
